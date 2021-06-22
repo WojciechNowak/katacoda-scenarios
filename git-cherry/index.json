@@ -1,0 +1,25 @@
+{
+    "title": "Take commits",
+    "description": "Pick interesting commits to a branch",
+    "difficulty": "Beginner",
+    "time": "2 minutes",
+    "details": {
+        "steps": [{
+                "text": "step1.md",
+                "courseData": "background.sh"
+            }
+        ],
+        "intro": {
+            "text": "intro.md"
+        },
+        "finish": {
+            "text": "finish.md"
+        }
+    },
+    "environment": {
+        "uilayout": "editor-terminal"
+    },
+    "backend": {
+        "imageid": "git"
+    }
+}
